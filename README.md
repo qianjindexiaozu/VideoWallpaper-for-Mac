@@ -14,7 +14,7 @@ A lightweight macOS menu bar app for setting videos as dynamic wallpapers.
 
 - [⬇️ Download VideoWallpaper.app.zip](https://github.com/qianjindexiaozu/VideoWallpaper-for-Mac/raw/main/VideoWallpaper.app.zip)
 
-After downloading, unzip the file and drag `VideoWallpaper.app` into the `/Applications` folder to run it.
+After downloading, unzip the file and run `VideoWallpaper.app`
 
 
 ## Build Instructions
