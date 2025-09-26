@@ -70,7 +70,7 @@ Contributions are welcome!
 
 - [⬇️ Download VideoWallpaper.app.zip](https://github.com/qianjindexiaozu/VideoWallpaper-for-Mac/raw/main/VideoWallpaper.app.zip)
 
-下载后解压，将 `VideoWallpaper.app` 拖到 `/Applications` 文件夹即可运行。
+下载后解压即可运行
 
 
 ## 本地构建方法
